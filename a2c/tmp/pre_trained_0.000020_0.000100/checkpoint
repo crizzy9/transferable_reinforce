@@ -1,6 +1,0 @@
-model_checkpoint_path: "pre_trained_step_4999_0.000020_0.000100.ckpt"
-all_model_checkpoint_paths: "pre_trained_step_2999_0.000020_0.000100.ckpt"
-all_model_checkpoint_paths: "pre_trained_step_3499_0.000020_0.000100.ckpt"
-all_model_checkpoint_paths: "pre_trained_step_3999_0.000020_0.000100.ckpt"
-all_model_checkpoint_paths: "pre_trained_step_4499_0.000020_0.000100.ckpt"
-all_model_checkpoint_paths: "pre_trained_step_4999_0.000020_0.000100.ckpt"
